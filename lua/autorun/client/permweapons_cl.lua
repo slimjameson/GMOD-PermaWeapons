@@ -141,7 +141,7 @@ net.Receive("PermWeapons_OpenMenu", function()
     save.DoClick = function()
         local sid = steamEntry:GetValue():Trim()
         if sid == "" then
-            chat.AddText(Color(200,50,50), "→ Please enter a SteamID or SteamID64.")
+            chat.AddText(Color(200,50,50), "→ Please enter a SteamID (DONT USE STEAMID64).")
             return
         end
         if not selectedWep then
