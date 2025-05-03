@@ -1,3 +1,4 @@
+-- MADE BY SLIM JAMESON
 -- lua/autorun/client/permweapons_cl.lua
 net.Receive("PermWeapons_OpenMenu", function()
     local selectedWep = nil

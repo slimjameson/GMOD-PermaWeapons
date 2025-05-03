@@ -1,3 +1,4 @@
+-- MADE BY SLIM JAMESON
 -- lua/permweapons_config.lua
 PermWeaponsConfig = PermWeaponsConfig or {}
 -- whitelist usergroups here:

@@ -1,3 +1,4 @@
+-- MADE BY SLIM JAMESON
 AddCSLuaFile("permweapons_config.lua")
 include("permweapons_config.lua")
 
